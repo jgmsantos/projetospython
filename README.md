@@ -17,3 +17,7 @@ São José dos Campo, SP - 02/05/2022.
 * [https://plotly.com/python/line-and-scatter](https://plotly.com/python/line-and-scatter)
 
 * [https://plotly.com/python/facet-plots](https://plotly.com/python/facet-plots)
+
+* Climatologia:
+  * [https://docs.xarray.dev/en/stable/examples/weather-data.html](https://docs.xarray.dev/en/stable/examples/weather-data.html)
+  * [https://stackoverflow.com/questions/42709838/getting-monthly-climatology-using-xarray-in-python](https://stackoverflow.com/questions/42709838/getting-monthly-climatology-using-xarray-in-python)
