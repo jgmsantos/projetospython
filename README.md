@@ -8,8 +8,7 @@ Para conhecer um pouco mais do meu trabalho, acesse o meu site:
 
 Guilherme Martins
 
-São José dos Campo, SP - 02/05/2022.
-
+Ultima atualização: 12/05/2022.
 ## Links de apoio:
 
 ### Atualizar pip3
@@ -128,7 +127,7 @@ pip install xlrd
 
 ### Plotando NetCDF com shapefile
 
-[https://samprafael.medium.com/plotando-dados-netcdf-e-shapefile-com-python-e-geopandas-f6252ed4308e](https://samprafael.medium.com/plotando-dados-netcdf-e-shapefile-com-python-e-geopandas-f6252ed4308e)
+1. [https://samprafael.medium.com/plotando-dados-netcdf-e-shapefile-com-python-e-geopandas-f6252ed4308e](https://samprafael.medium.com/plotando-dados-netcdf-e-shapefile-com-python-e-geopandas-f6252ed4308e)
 
 ### Proplot
 
