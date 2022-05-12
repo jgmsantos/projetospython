@@ -55,6 +55,10 @@ sudo apt-get remove --purge python3.6
 
 [https://www.youtube.com/watch?v=XGUS6DYZfCc&ab_channel=GeoDeltaLabs](https://www.youtube.com/watch?v=XGUS6DYZfCc&ab_channel=GeoDeltaLabs)
 
+### Geopandas
+
+[https://datascientyst.com/plot-latitude-longitude-pandas-dataframe-python/](https://datascientyst.com/plot-latitude-longitude-pandas-dataframe-python/)
+
 ### Informa um relatório detalhado sobre o dataset:
 
 1. [https://www.geeksforgeeks.org/how-to-install-pandas-profiling-on-linux/](https://www.geeksforgeeks.org/how-to-install-pandas-profiling-on-linux/)
