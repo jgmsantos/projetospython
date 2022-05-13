@@ -185,6 +185,10 @@ pip install xlrd
 1. [https://www.python-graph-gallery.com/](https://www.python-graph-gallery.com/)
 
 2. [https://seaborn.pydata.org/](https://seaborn.pydata.org/)
+
+### Substituir valores em uma coluna
+
+[https://www.delftstack.com/pt/howto/python-pandas/pandas-replace-values-in-column/](https://www.delftstack.com/pt/howto/python-pandas/pandas-replace-values-in-column/)
 ### UNIDATA
 
 1. [https://unidata.github.io/MetPy/v0.11/installguide.html](https://unidata.github.io/MetPy/v0.11/installguide.html)
