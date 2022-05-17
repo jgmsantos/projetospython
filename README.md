@@ -78,6 +78,15 @@ pip3 install Pandas-Profiling
 conda create --name mlbook python=3.9.12
 ```
 
+### Instalar ipykernel
+
+`pip install ipykernel`
+
+### Instalar Python
+
+`conda install python`
+
+
 ### Ler excel:
 
 1. [https://pypi.org/project/xlrd/#description](https://pypi.org/project/xlrd/#description)
@@ -94,6 +103,10 @@ pip install xlrd
 ### Manipulação de dados NetCDF
 
 [https://nctoolkit.readthedocs.io/en/latest/introduction.html](https://nctoolkit.readthedocs.io/en/latest/introduction.html)
+
+### METPY
+
+[https://unidata.github.io/MetPy/latest/index.html](https://unidata.github.io/MetPy/latest/index.html)
 ### Pandas
 
 1. [https://pandas.pydata.org/docs/user_guide/merging.html](https://pandas.pydata.org/docs/user_guide/merging.html)
@@ -189,6 +202,7 @@ pip install xlrd
 ### Substituir valores em uma coluna
 
 [https://www.delftstack.com/pt/howto/python-pandas/pandas-replace-values-in-column/](https://www.delftstack.com/pt/howto/python-pandas/pandas-replace-values-in-column/)
+
 ### UNIDATA
 
 1. [https://unidata.github.io/MetPy/v0.11/installguide.html](https://unidata.github.io/MetPy/v0.11/installguide.html)
